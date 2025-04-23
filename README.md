@@ -3,8 +3,8 @@
 Este repositorio contiene ejercicios ya realizados y dos pregutas conceptuales sobre los repos y Github 
 
 ## 📂 Contenido
--  **Ejercicios en JavaScript** (interactúan con HTML).  
-- ** Consultas Basicas en SQL (Motor usado: SQL Server)
+-  **Ejercicio en JavaScript** (interactúa con HTML).  
+- **Consultas Basicas en SQL (Motor usado: SQL Server).
 
 ##  Cómo usar este repositorio
 1. **Para JavaScript**  
