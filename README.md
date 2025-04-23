@@ -4,7 +4,7 @@ Este repositorio contiene ejercicios ya realizados y dos pregutas conceptuales s
 
 ## 📂 Contenido
 -  **Ejercicio en JavaScript** (interactúa con HTML).  
-- **Consultas Basicas en SQL (Motor usado: SQL Server).
+- **Consultas Basicas en SQL** (Motor usado: SQL Server).
 
 ##  Cómo usar este repositorio
 1. **Para JavaScript**  
