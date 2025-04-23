@@ -1,0 +1,48 @@
+¿Qué es un repositorio de código?
+
+Un repositorio de código es un espacio en la nube donde se pueden guardar, organizar y 
+gestionar archivos de código fuente, documentos, scripts y cualquier tipo de archivo relacionado con 
+el desarrollo de software. 
+Estos repositorios permiten a los desarrolladores almacenar versiones de su proyecto.
+
+¿Para qué sirve una herramienta como GitHub?
+
+GitHub es una plataforma basada en Git que combina almacenamiento de repositorios 
+con funcionalidades de colaboración y automatización. 
+
+Allí los desarrolladores pueden:
+
+- Subir sus proyectos.
+
+- Compartir su código.
+
+- Contribuir al código de otros.
+
+- Aprender de ejemplos reales.
+
+- Mostrar su portafolio profesional.
+
+Además, permite a varios programadores trabajar al mismo tiempo en un mismo proyecto sin pisarse el trabajo, 
+gracias al control de versiones que ofrece Git.
+
+
+Git
+
+Git es un sistema de control de versiones creado por Linus Torvalds (el mismo creador de Linux). 
+Sirve para llevar un historial detallado de todos los cambios que haces en tus archivos. Por ejemplo:
+
+- Qué modificaste.
+
+- Cuándo lo hiciste.
+
+- Quién lo hizo (si trabajas en equipo).
+
+- Permite volver a versiones anteriores si algo falla.
+
+Git se conecta fácilmente con herramientas como Visual Studio Code para que puedas hacer tus cambios localmente, 
+y luego sincronizarlos con GitHub usando comandos como commit (para guardar cambios localmente) 
+y push (para subirlos a la nube).
+
+Gracias a eso, no se necesita subir manualmente cada archivo modificado a GitHub. 
+Todo se gestiona desde el mismo editor de código 
+
