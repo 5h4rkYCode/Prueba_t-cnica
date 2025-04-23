@@ -1,6 +1,6 @@
 # Prueba técnica con ejercicios practicos 
 
-Este repositorio contiene ejercicios ya realizados y dos prengutas conceptuales sobre los repos y Github 
+Este repositorio contiene ejercicios ya realizados y dos preguntas conceptuales sobre los repos y Github 
 
 ## 📂 Contenido
 -  **Ejercicio en JavaScript** (interactúa con HTML).  
