@@ -37,7 +37,7 @@ function Persona_mayor() {
             // $ {mayor.nombre} y ${mayor.edad} son variables que se insertan en la cadena de texto.
 
     if (mayor.edad >= 61 && mayor.edad > 70) {
-        resultado += `<p> La persona <strong>${mayor.nombre}</strong> es mayor 70 años, ya es de la 3 edad</p> `
+        resultado += `<p> La persona <strong>${mayor.nombre}</strong> es bastante mayor, ya es de la 3 edad</p> `
     }else if (mayor.edad > 40 && mayor.edad < 60) {
         resultado += `<p> La persona <strong>${mayor.nombre}</strong> es menor de 40 años, no es de la 3 edad</p>`
     }else{
